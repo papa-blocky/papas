@@ -1,0 +1,22 @@
+body  {
+    font-family: "Arial";
+
+}
+
+.main-image {
+    border: solid 4px black;
+    border-radius: 50%;
+}
+
+h1 { 
+background-color:#00471B;
+padding: 5px; 
+}
+
+h2.section-title {
+    text-transform: uppercase;
+
+
+
+
+}
